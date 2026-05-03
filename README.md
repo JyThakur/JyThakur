@@ -8,7 +8,7 @@ I’m currently expanding into HL7 FHIR (R4) and modern API-based interoperabili
 
 ## 🏥 What I Work On
 
-- Designing and implementing HL7 v2.x interfaces (ADT, ORU, ORM, DFT, SIU)
+- Designing and implementing HL7 v2.5 interfaces (ADT, ORU, ORM, DFT, SIU)
 - Building integration pipelines using Mirth Connect
 - Supporting EMR, LIS, PACS/RIS interoperability
 - Working with APIs, SFTP, and TCP/IP (MLLP) for healthcare data exchange
@@ -68,7 +68,7 @@ I’m currently expanding into HL7 FHIR (R4) and modern API-based interoperabili
 
 - 📧 jaythakur32@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jaythakur37/
-- 🌐 Portfolio: https://jythakur.github.io/JayThakur_HealthTech_IntegrationEngineer/
+- 🌐 Portfolio: https://jythakur.github.io/JayThakur-hl7-fhir-implementations/
 - 🌐 FHIR Platform (Sandbox): https://jythakur.github.io/fhir-platform-sandbox/
 
 ---
