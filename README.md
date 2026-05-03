@@ -68,7 +68,7 @@ I’m currently expanding into HL7 FHIR (R4) and modern API-based interoperabili
 
 - 📧 jaythakur32@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jaythakur37/
-- 🌐 Portfolio: https://jythakur.github.io/JayThakur_HealthTechIntegration_India/
+- 🌐 Portfolio: https://jythakur.github.io/JayThakur_HealthTech_IntegrationEngineer/
 - 🌐 FHIR Platform (Sandbox): https://jythakur.github.io/fhir-platform-sandbox/
 
 ---
